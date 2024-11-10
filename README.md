@@ -1,4 +1,4 @@
-# Lane Maintenance System using Hough Transform and Canny Edge Detection in Python
+# Lane Detection System using Hough Transform and Canny Edge Detection in Python
 
 This project implements a lane detection system in Python using OpenCV. The system processes real-time video feed, identifies lane lines on the road, and highlights them to assist in lane maintenance. This is achieved through edge detection (Canny) and line detection (Hough Transform) methods.
 
